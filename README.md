@@ -22,5 +22,5 @@ This project utilizes Python for data analysis, with libraries such as Pandas fo
 #### How to Run
 1. Clone the repository.
 2. Ensure you have Jupyter Notebook installed, or use Google Colab to open the .ipynb file.
-3. Install necessary Python packages: pandas, matplotlib, scikit-learn.
+3. Install necessary Python packages: pyrsm, pandas, matplotlib, scikit-learn.
 4. Run the notebook cg-uplift.ipynb to see the analysis and results.
